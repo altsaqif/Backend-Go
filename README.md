@@ -1,1 +1,1 @@
-# b
+# Say hay to Go ;)
